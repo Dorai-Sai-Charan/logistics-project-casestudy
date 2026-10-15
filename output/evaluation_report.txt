@@ -1,0 +1,10 @@
+FreightTiger evaluation report
+output_rows=728
+output_columns=route,week_of,cost_per_tonne_km,vs_own_history,vs_similar_routes,flagged,matched_note_id,reason
+duplicate_route_week_rows=0
+finite_cost_values=True
+justified_rows=3
+unexplained_flagged_rows=17
+llm_calls=0
+llm_tokens=not applicable; deterministic core pipeline
+llm_cost=0; no provider is required

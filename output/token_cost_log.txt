@@ -1,0 +1,11 @@
+FreightTiger token and cost log
+
+LLM calls: 0
+Input tokens: Not applicable
+Output tokens: Not applicable
+Total tokens: Not applicable
+Model/provider: Not applicable
+Provider pricing: Not applicable
+Calculated cost: 0
+
+The core pipeline uses deterministic pandas calculations, deterministic context-note retrieval, and deterministic explanation templates. It does not require an LLM API, embeddings, a vector database, a network connection, or an API key.

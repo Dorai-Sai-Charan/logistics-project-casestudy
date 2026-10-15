@@ -1,0 +1,12 @@
+﻿FreightTiger reproducibility check
+
+Command: python main.py
+Runs compared: 3
+
+run1_sha256=2F95FF72222DD5DE55E5C5AF248D32409C8A9552DF0401BF36BFEAB6D3CFEBAF
+run2_sha256=2F95FF72222DD5DE55E5C5AF248D32409C8A9552DF0401BF36BFEAB6D3CFEBAF
+run3_sha256=2F95FF72222DD5DE55E5C5AF248D32409C8A9552DF0401BF36BFEAB6D3CFEBAF
+
+identical_outputs=true
+
+The three runs used the same input files and configuration. The generated CSV bytes, row ordering, numerical values, flags, verdicts, matched note IDs, and explanations were identical.

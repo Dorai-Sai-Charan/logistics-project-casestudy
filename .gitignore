@@ -1,0 +1,10 @@
+.venv/
+.vnev/
+.venv.*
+__pycache__/
+.pytest_cache/
+.vscode/
+.agent/
+.slingshot/
+*.pyc
+.venv
